@@ -6,6 +6,8 @@
     <title>Alta paciente</title>
 </head>
 <body>
+    <a href="altaPaciente.php"
+    
     
 </body>
 </html>
